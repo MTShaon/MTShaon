@@ -1,10 +1,10 @@
-HELLO! I AM MD. TANVIR AKTER SHAON FROM DHAKA, BANGLADESH I AM A FINAL YEAR UNDER-GRADUATE STUDENT IN COMPUTER SCIENCE AND ENGINEERING AT UNITED INTERNATIONAL UNIVERSITY. I like to problem solving, mathematics. I also like to play CTF(Capture The Flag). I am interested in cyber security, network security, ethical hacking. I am also a continuous learner and it's my passion....
+Hello! I am md. tanvir akter shaon from Dhaka, Bangladesh. I am a final year under-graduate student in computer science and engineering (CSE) at united international university. I like to problem solving, mathematics. I also like to play CTF(Capture The Flag). I am interested in cyber security, network security, ethical hacking. I am also a continuous learner and it's my passion....
 
 Skills & Experience :
 
 -skilled in MS word, MS Excel, MS power point
 
-💻 Python,C,C++,Java,Assembly.
+-Programming Language: Python,C,C++,Java,Assembly.
 
 -Web & Scripting Languages: HTML,CSS,Shell Scripting,Mysql
 
