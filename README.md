@@ -6,7 +6,7 @@ Skills & Experience :
 
 -Programming Language: Python,C,C++,Java,Assembly.
 
--Web & Scripting Languages: HTML,CSS,Shell Scripting,Mysql
+-Web & Scripting Languages: HTML,CSS,PHP,Shell Scripting,Mysql
 
 -Operating Systems: Microsoft Windows, Kali Linux,
 
